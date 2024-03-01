@@ -5,3 +5,7 @@ random_forest_model.joblib
 .idea
 X_tfidf.npy
 y.npy
+X_tfidf_1000.npy
+X_tfidf_3000.npy
+xgboost_model.joblib
+random_forest_model.joblib
