@@ -1,6 +1,7 @@
 7282_1.csv
 Datafiniti_Hotel_Reviews.csv
 Datafiniti_Hotel_Reviews_Jun19.csv
+random_forest_model.joblib
 .idea
 X_tfidf.npy
 y.npy
